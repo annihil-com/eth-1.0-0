@@ -1,0 +1,35 @@
+v0.95 12/05/2006
+----------------------
+IRC status-bot support - Optionally logs on to IRC with the other ETH users to show who's playing where.
+IRC fireteam - Chat in IRC from ET with Global ETH users.
+Supports Jaymod, etpubclient, whalemod, etpub, shrub, etmain.
+ETH Hud added - For use with cg_draw2d 0.
+Mortar tracers - shows where your mortar will be going, along with other mortar's (both axis & allies).
+Mortar Cam / Hack - Displays where your mortar is going to land before you shoot.
+Player radar - Shows where your teammates, and enemys are around you.
+Added more chams.
+Remove speclock option.
+Improved sniper zoom removal.
+Improved aimbot.
+Panzer cam - Displays where you will be shooting the panzer.
+
+v0.95-beta 13/02/2006
+-----------------------
+Implemented multi-mod support such as whale, etpubclient.
+
+v0.6 - 10/11/2005
+-----------------------
+Aimbot (tag and vector based)
+Players chams
+Player name, dynamite, grenade, satchel esp
+Dynamite counter
+AutoDefense
+Sniper zoom removal
+Spawn timer
+Auto action (aim at dynamite and dead player with the correct weapon)
+
+v0.1 - beta - 09/08/2005
+-----------------------
+First release at elitecoders.org.
+Cvar system.
+Basic clienthook wallhack.
